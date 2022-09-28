@@ -1,0 +1,5 @@
+src/test_server.ts
+node_modules/
+dist
+dist/
+**/.DS_Store
