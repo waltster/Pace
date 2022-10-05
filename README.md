@@ -9,3 +9,5 @@ without compromising on the availability of data.
 
 ## Data Formats
 * JSON Web Endpoints - Endpoints accessible to the server via HTTP(s) requests
+with configurable authentication
+* JSON Object - Hardcoded JSON Objects that can be served as a data source
